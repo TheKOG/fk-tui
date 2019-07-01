@@ -14,6 +14,7 @@
     'use strict';
 	if(prompt('颓尼玛呢',"")!="dqyakioi"){
         window.location.href='http://www.lydsy.com/';
+        alert("别颓了, 刷题.");
     }else{
         alert("Yes he does!");
     }
